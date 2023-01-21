@@ -12,6 +12,6 @@
 <br>
 <br>
 
-___`It's a very versatile operating system, it can run on just about everything.`___
+___`It's a very versatile operating system, it can run on just about everything.`___ :grin:
 
 ![UNIX](https://i.imgur.com/wkmbRy6.jpeg)
