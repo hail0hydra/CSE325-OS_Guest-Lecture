@@ -1,4 +1,4 @@
-# Operating System's is FUN :smile:
+# Operating Systems are FUN :smile:
 
 <br>
 <br>
