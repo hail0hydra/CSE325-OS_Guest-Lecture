@@ -12,7 +12,7 @@
 <br>
 <br>
 
-___`It's a very versatile operating system, it can run on just about everything.`___
+___`It's a very versatile operating system, it can run on just about everything.`___ :grin:
 
 <!-- ![UNIX](https://i.imgur.com/wkmbRy6.jpeg) -->
 <img src="https://i.imgur.com/wkmbRy6.jpeg" alt=img style="width:800px">
